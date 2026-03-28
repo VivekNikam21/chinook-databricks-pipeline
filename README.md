@@ -5,7 +5,7 @@
 ### Team Members
 - Aravind Ravi
 - Vivek Nikam
-- Anshul Hasija
+- Aditya Rajesh Hasija
 
 ---
 
